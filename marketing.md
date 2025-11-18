@@ -12,19 +12,19 @@ Save any currently playing song to your Spotify playlists **instantly** - right 
 
 ### Main App Interface
 <div align="center">
-  <img src="app-main-screen.png" width="300" alt="Main App Screen">
+  <img src="images/app-main-screen.png" width="300" alt="Main App Screen">
   <p><em>Clean, simple interface</em></p>
-</div>
+</div>widget
 
 ### Select Your Playlist
 <div align="center">
-  <img src="playlist-selection.png" width="300" alt="Playlist Selection">
+  <img src="images/playlist-selection.png" width="300" alt="Playlist Selection">
   <p><em>Choose from your Spotify playlists</em></p>
 </div>
 
 ### Lock Screen Widget
 <div align="center">
-  <img src="widget-lockscreen.png" width="300" alt="Lock Screen Widget">
+  <img src="images/widget-lockscreen.png" width="300" alt="Lock Screen Widget">
   <p><em>Add songs without unlocking your phone</em></p>
 </div>
 
