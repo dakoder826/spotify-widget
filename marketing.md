@@ -4,14 +4,12 @@
   <h2>Never Miss a Great Song Again!</h2>
 </div>
 
----
 
 <div align="center">
   <h3>⚡ Save any song to your Spotify playlists instantly - right from your lock screen</h3>
   <p><em>No apps to open. No interruptions. Just one tap.</em></p>
 </div>
 
----
 
 ## ✨ Key Features
 
