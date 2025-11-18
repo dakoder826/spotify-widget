@@ -12,7 +12,7 @@ Save any currently playing song to your Spotify playlists **instantly** - right 
 
 ### Main App Interface
 <div align="center">
-  <img src="/images/app-main-screen.png" width="300" alt="Main App Screen">
+  <img src="images/app-main-screen.png" width="300" alt="Main App Screen">
   <p><em>Clean, simple interface</em></p>
 </div>widget
 
