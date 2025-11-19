@@ -1,4 +1,4 @@
-# Privacy Policy for Spotify Add Widget
+# Privacy Policy
 
 Last updated: November 10, 2025
 
